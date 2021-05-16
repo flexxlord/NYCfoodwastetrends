@@ -1,3 +1,3 @@
 # NYCfoodwastetrends
 
-Comparing data through buroughs of NYC, aswell as looking at varius other demographics.
+An analysis of food waste data of the NYC Boroughs and districts across several socioeconomic demographics using data from NYC Open Data and NYU Furman Center's NYC Core Data. 
